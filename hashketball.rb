@@ -3,27 +3,13 @@ def game_hash
   
   teams # => {
   :home => {
-    :team_name => "Brooklyn"
-    :pacific => [
-        [0] "sharks",
-        [1] "oilers"
-      ],
-      :central => [
+    :team_name => "Brooklyn Nets"
+    :colors => ["Black","White"]
+    :players => [
         [0] "blues",
         [1] "stars"
       ]
-    },
-    :eastern => {
-      :metropolitan => [
-        [0] "penguins",
-        [1] "flyers"
-      ],
-      :atlantic => [
-        [0] "redwings",
-        [1] "bruins"
-      ]
     }
-  }
 }
 
 
