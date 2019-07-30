@@ -3,8 +3,8 @@ def game_hash
   
   teams # => {
   :home => {
-    :western => {
-      :pacific => [
+    :team_name => "Brooklyn"
+    :pacific => [
         [0] "sharks",
         [1] "oilers"
       ],
