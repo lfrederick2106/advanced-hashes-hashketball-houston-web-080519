@@ -7,7 +7,7 @@ def game_hash
     :colors => ["Black","White"]
     }
   :away => {
-    :team_name => "Brooklyn Nets"
+    :team_name => "Charlotte Hornets"
     :colors => ["Black","White"]
     }
   }
